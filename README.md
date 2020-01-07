@@ -1,5 +1,5 @@
 # TeamBuilder
-TeamBuilder is a website intended for use by coordinators of teamwork-based activities. It provides a simpler way to automatically generate  teams, whilst allowing customizable constraints on team makeup. This repository is a fork of [aidanstansfield/DECO3801Project](https://github.com/aidanstansfield/DECO3801Project) (technically not a fork since GitHub doesn't allow forks of your own repos)
+TeamBuilder is a website intended for use by coordinators of teamwork-based activities. It provides a simpler way to automatically generate  teams, whilst allowing customizable constraints on team makeup. This repository is a fork of [aidanstansfield/DECO3801Project](https://github.com/aidanstansfield/DECO3801Project) (technically not a fork since GitHub doesn't allow forks of one's own repos)
 
 ## Deployment
 Detailed information about how to setup and deploy TeamBuilder can be found in [setup.txt](doc/setup.txt)
